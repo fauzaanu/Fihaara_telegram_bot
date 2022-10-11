@@ -8,7 +8,7 @@ Bot is live at @fihaarabot on telegram
 # TODO:
 - [ ] Instead of sending all images send 3 
   - OR
-- [ ] Send Text Responses yet and send the pic for the item user requests
+- [ ] Send Text Responses first and send the pic for the text item user requests
 - Integrate More Platforms:
   - [ ] ibay
   - [ ] viewnetcomputers
